@@ -47,3 +47,6 @@ The data is from Automobile Insurance. I will be creating a predictive model tha
 36. 'auto_model'
 37. 'auto_year'
 38. 'fraud_reported'
+
+### Target Variable Distribution
+![target_variable distribution](https://user-images.githubusercontent.com/55680419/227853678-16d99495-0abf-49db-88ac-541cb1aa6d01.png)
