@@ -6,7 +6,7 @@ Claim related fraud is a huge problem in the insurance industry. It is quite com
 
 The data is from Automobile Insurance. I will be creating a predictive model that predicts if an insurance claim is fraudulent or not. The answere between YES/NO, is a Binary Classification task. A comparison study has been performed to understand which ML algorithm suits best to the dataset.
 
-### Data discription
+## Data Description:-
 
 1.  'months_as_customer'
 2.  'age'
@@ -48,11 +48,11 @@ The data is from Automobile Insurance. I will be creating a predictive model tha
 37. 'auto_year'
 38. 'fraud_reported'
 
-### Target Variable Distribution:-
+## Target Variable Distribution:-
 
 ![target_variable distribution](https://user-images.githubusercontent.com/55680419/227853678-16d99495-0abf-49db-88ac-541cb1aa6d01.png)
 
-### Complete Project Flow:-
+## Complete Project Flow:-
 
 ![Complete Flow of the Project](https://user-images.githubusercontent.com/55680419/227868534-f7f93094-9d62-48c4-ad5b-15d4478b81a4.png)
 
